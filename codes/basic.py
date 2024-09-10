@@ -25,7 +25,7 @@ import matplotlib.pyplot as plt
 wafer_size = 100 #grid with a 100x100 size
 wafer = np.zeros((wafer_size, wafer_size))
 
-radius=int(input("introduce the desired radius (for a circular pattern): "))
+radius=int(input("introduce the desired radius (for a circular pattern and <= 50): "))
            
 #Here we will define the lithography pattern:
 def print_pattern (wafer, pattern_type="circle", center=(50,50), radius=radius):
