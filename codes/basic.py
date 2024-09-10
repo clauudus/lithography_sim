@@ -43,4 +43,4 @@ if radius<=50:
     plt.title(f'Lithography pattern simulation on Wafer (Radius={radius})')
     plt.show()
 else:
-    print(f"Error, radius too big for the wafer. Please choose a number smaller than 50")
+    print("Error, radius too big for the wafer. Please choose a number smaller than 50")
