@@ -36,8 +36,11 @@ def print_pattern (wafer, pattern_type="circle", center=(50,50), radius=radius):
                     wafer[i,j] = 1
     return wafer
 
-wafer_with_pattern = print_pattern(wafer, radius=radius)
+if radius<=50:
+    wafer_with_pattern = print_pattern(wafer, radius=radius)
 
-plt.imshow(wafer_with_pattern, cmap='gray')
-plt.title(f'Lithography pattern simulation on Wafer (Radius={radius})')
-plt.show()
+    plt.imshow(wafer_with_pattern, cmap='gray')
+    plt.title(f'Lithography pattern simulation on Wafer (Radius={radius})')
+    plt.show()
+else:
+    print(f"Error, radius too big for the wafer. Please choose a number smaller than 50")
