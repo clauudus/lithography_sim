@@ -7,7 +7,7 @@ At some point I'm gonna be trying to print patterns designed by autoCAD to make 
 
 I also would like to implement a graphic interface to make it more easy to use.
 
-Feel free to use this for your own projects but keep in mind I'm still a student and this is my first personal project and I'm very new at the semicons world :)
+Feel free to use this for your own projects but keep in mind I'm still a student and this is my first personal project and I'm very new at the semicons world and, to be fair, I'm also pretty new at coding :)
 
 Clàudia Pàmies, UAB 
 2024 
