@@ -12,7 +12,7 @@ After this, it should be printed to see the result.
 
 After completing this part of the project, the idea is to implement 
 more complex patterns to print on the simulated wafer designed with the 
-autoCAD tool.
+CAD tool.
 
 At some point, we will have a graphic interface to ensue a user-friendly
 simulation where the user will be able to see it's own desingn printed on
