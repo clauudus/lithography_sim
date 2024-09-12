@@ -1,7 +1,7 @@
 # lithography_sim
 Personal project to simulate a pattern on a 2D material such as a silicon wafer. 
 The principal objective of this project is to start by creating a very simple pattern on a simulated wafer.
-After completing this step I'm gonna be updatign the project to make it more user friendly and makeing it as personificable as it can be so each diferent user can
+After completing this step I'm gonna be updating the project to make it more user friendly and making it as personificable as it can be so each diferent user can
 simulate its personal wafer with different patterns.
 At some point I'm gonna be trying to print patterns designed by autoCAD to make this simulation as realistic as it can be. 
 
